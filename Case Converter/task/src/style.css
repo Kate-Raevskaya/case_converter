@@ -1,0 +1,23 @@
+.title {
+    color: black;
+    font-size: 50px;
+}
+#text {
+    height: 300px;
+    width: 757px;
+    font-family: "Times New Roman", monospace;
+    font-size: 20px;
+}
+.button {
+    font-size: 20px;
+    background-color: lightpink;
+    border-color: transparent;
+    padding: 5px 15px;
+    border-radius: 3px;
+}
+.button:hover {
+    background-color: pink;
+}
+.button:active {
+    background-color: mistyrose;
+}
